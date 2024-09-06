@@ -19,7 +19,7 @@ Real-Time Data Access: Provides up-to-date insights and reports for managers, pl
 - Database: MongoDB for schedule and crew data, PostgreSQL with PostGIS for managing geospatial route data.
 - Real-Time Communication: WebSockets for live updates on bus positioning and schedule adherence.
 - GIS Technology: Mapping existing routes, highlighting overlaps, and optimizing routes using GIS algorithms.
-- 
+
 **Expected Output:**
   
 A fully functional prototype demonstrating:
